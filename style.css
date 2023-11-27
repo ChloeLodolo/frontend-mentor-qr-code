@@ -28,7 +28,7 @@ main {
     margin: 2em;
     padding: 1.5em;
     width: 100%;
-    max-width: 375px;
+    max-width: 310px;
     box-shadow: 0px 10px 20px 0px var(--light-grey-shadow);
     border-radius: 1em;
     text-align: center;
